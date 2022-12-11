@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>I am a self-driven, Motivated, Resourceful Technical Support Engineer and WordPress Expert with experience in PHP, NodeJS and computer networks.
 
- I love working with WordPress and doing it the right way.</p>
+ I love working to find solutions.</p>
