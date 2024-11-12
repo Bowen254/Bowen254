@@ -12,6 +12,14 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">Hi 👋, I'm Nate</h2>
 
-<p>A self-driven, Motivated, Resourceful Technical Support Engineer and WordPress Expert with experience in PHP, NodeJS and WhatsApp Business APIs.
+<p>A self-driven, Motivated, Resourceful Technical Support Engineer with extensive experience using: </p>
+<b>
+ <ul>
+  <li>Bash Scipting</li>
+  <li>Docker</li>
+  <li>NodeJS</li>
+  <li>Postgre and Oracle RDBMS</li>
+  <li>WhatsApp Business APIs</li>
+ </ul></b>
 
- I love working to find solutions.</p>
+ <p> I love working to find solutions.</p>
