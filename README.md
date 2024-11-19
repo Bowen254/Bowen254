@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 <p>A self-driven, Motivated, Resourceful Technical Support Engineer with extensive experience using: </p>
 <b>
  <ul>
-  <li>Bash Scipting</li>
+  <li>Bash Scripting</li>
   <li>Docker</li>
   <li>NodeJS</li>
-  <li>Postgre and Oracle RDBMS</li>
+  <li>PostgreSQL and Oracle RDBMS</li>
   <li>WhatsApp Business APIs</li>
  </ul></b>
 
