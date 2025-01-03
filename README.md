@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2 align="left">Hi 👋, I'm Nate</h2>
+<h2 align="left">Hi 👋, I'm Nathan Bowen</h2>
 
-<p>A self-driven, Motivated, Resourceful Technical Support Engineer with extensive experience using: </p>
+<p>A self-driven, Motivated, Resourceful Software Engineer with extensive experience using: </p>
 <b>
  <ul>
   <li>Bash Scripting</li>
